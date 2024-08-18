@@ -21,7 +21,6 @@
       "run_at": "document_start"
     }
   ],
-  "default_locale": "en",
   "host_permissions": ["<all_urls>"],
   "permissions": ["scripting", "storage", "system.display"]
 }
