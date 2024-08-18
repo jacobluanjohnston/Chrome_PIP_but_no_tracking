@@ -2,4 +2,6 @@ Seamless video experience with floating video mode. Simply click on the extensio
 
 [Pic](https://imgur.com/DRZYmYd)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="DRZYmYd"><a href="https://imgur.com/DRZYmYd">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 [Pic2](https://imgur.com/nBHjFtS)
