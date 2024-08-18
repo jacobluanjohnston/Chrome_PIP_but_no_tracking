@@ -18,7 +18,7 @@
 
         const observer = new ResizeObserver(() => {
             if (!document.querySelector("[pip-active]")) {
-                observer.unobserve(video);  // Corrected to reference the observer variable directly
+                observer.unobserve(video);
             }
         });
         observer.observe(video);
