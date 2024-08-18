@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed350dfd-d4f0-4a74-9fe1-caefc8118d7b)![image](https://github.com/user-attachments/assets/f470f51d-935b-4359-86dc-592b9580b50c)Seamless video experience with floating video mode. Simply click on the extension icon to begin.
+Seamless video experience with floating video mode. Simply click on the extension icon to begin. It is draggable, resizable, has a play/pause button, an exit button, and a return to tab button.
 
 ![alt text](https://imgur.com/DRZYmYd)
 
