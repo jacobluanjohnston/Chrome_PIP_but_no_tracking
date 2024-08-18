@@ -2,6 +2,8 @@ Seamless video experience with floating video mode. Simply click on the extensio
 
 It uses built-in Google Chrome PIP API so it should work on every website.
 
+You don't have to give me credit for using this code.
+
 1. Add the icon to the top right of your browser by pinning it. Then click on it.
 ![Pic](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%201.png)
 
