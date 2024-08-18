@@ -9,3 +9,6 @@ You don't have to give me credit for using this code.
 
 2. Enjoy the draggable, resizable PIP / floating player! 
 ![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%202.png)
+
+3. Now, get to work!
+[Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%203.png)
