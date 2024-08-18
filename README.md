@@ -4,4 +4,4 @@ Seamless video experience with floating video mode. Simply click on the extensio
 ![Pic](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%201.png)
 
 2. Enjoy the PIP / floating player!
-![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/Picture%20In%20Picture%20Player%20How%20To%202.png)
+![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%202.png)
