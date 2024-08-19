@@ -11,4 +11,6 @@ You don't have to give me credit for using this code.
 ![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%202.png)
 
 3. Now, enjoy multi-tasking.
-![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%203.png)
+![Pic3](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-for-Google-Chrome/blob/master/howto/How%20To%204.png)
+
+![Pic4](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%203.png)
