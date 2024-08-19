@@ -1,3 +1,5 @@
+Icon: ![icon1](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-for-Google-Chrome/blob/master/icons/icon128.png)
+
 Seamless video experience with floating video mode. Simply click on the extension icon to begin. It is draggable, resizable, has a play/pause button, an exit button, and a return to tab button.
 
 It uses built-in Google Chrome PIP API, so it should work on every website. However, unlike https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension, we do not run trackers that collects and sends data to Google Analytics or run pop-ups. Google tracks various user interactions such as page views, events, transactions, and social interactions on a website ultimately to improve their application, however, my code will be doing none of that.
