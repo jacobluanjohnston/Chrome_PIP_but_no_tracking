@@ -8,9 +8,12 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_icon": "icons/icon64.png"
+    "default_icon": {
+      "64": "icons/icon64.png",
+      "128": "icons/icon128.png"
+    }
   },
-    "commands": {
+  "commands": {
     "_execute_action": {
       "suggested_key": {
         "windows": "Alt+P",
@@ -21,12 +24,12 @@
     }
   },
   "background": {
-    "service_worker": "serviceWorker.js"
+    "service_worker": "background.js"
   },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["cnt.js"],
+      "js": ["script.js"],
       "all_frames": true,
       "run_at": "document_start"
     }
