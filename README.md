@@ -1,18 +1,16 @@
 Icon: ![icon1](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-for-Google-Chrome/blob/master/icons/icon128.png)
 
-Seamless video experience with floating video mode. Simply click on the icon in your browser to begin. It is draggable, resizable, has a play/pause button, an exit button, and a return to tab button.
+This is Google Chrome's code for the PIP but without Google Analytics trackers or even maybe pop ups.
 
-It uses built-in Google Chrome PIP API, so it should work on every website. However, unlike https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension, we do not run trackers that collects and sends data to Google Analytics or run pop-ups. Google tracks various user interactions such as page views, events, transactions, and social interactions on a website ultimately to improve their application, however, my code has removed all of that. Feel free to take a look at both -- the code is very similar (I ended up borrowing their variable names and structure after writing the first working draft of my code.)
-
-You don't have to give me credit for using this code.
+Seamless video experience with floating video mode. Simply click on the icon in your browser to begin. It is draggable, resizable, has a play/pause button, an exit button, and a return to tab button. Google tracks various user interactions such as page views, events, transactions, and social interactions on a website ultimately to improve their application.
 
 1. Add the icon to the top right of your browser by pinning it. Then click on it.
 ![Pic](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%201.png)
 
-2. Enjoy the draggable, resizable PIP / floating player! 
+2.  
 ![Pic2](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%202.png)
 
-3. Now, enjoy multi-tasking.
+3.
 ![Pic3](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-for-Google-Chrome/blob/master/howto/How%20To%204.png)
 
 ![Pic4](https://github.com/jacobluanjohnston/Picture-in-Picture-Mode-Chrome-Extension/blob/master/howto/How%20To%203.png)
