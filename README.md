@@ -1,4 +1,5 @@
-They ended up removing the analytics themselves the same way. https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension/commit/303dcd8e4e82caaf4411e63fce2e466da9052f28
+They ended up removing the analytics themselves the same way. 
+https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension/commit/303dcd8e4e82caaf4411e63fce2e466da9052f28
 
 ---
 This is Google Chrome's code for the PIP but without Google Analytics trackers. Google tracks various user interactions such as page views, events, transactions, and social interactions on a website ultimately to improve their application.
