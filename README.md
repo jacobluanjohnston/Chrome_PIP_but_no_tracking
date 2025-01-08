@@ -1,4 +1,4 @@
-They ended up removing the analytics themselves the same way. 
+They ended up removing the analytics themselves.
 https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension/commit/303dcd8e4e82caaf4411e63fce2e466da9052f28
 
 ---
